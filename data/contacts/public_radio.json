@@ -1,0 +1,156 @@
+{
+  "contacts": [
+    {
+      "name": "Ft. Myers WGCU-FM 90.1 FM",
+      "role": "media/public-radio"
+    },
+    {
+      "name": "Ft. Pierce WQCS 88.9 FM",
+      "role": "media/public-radio"
+    },
+    {
+      "name": "Gainesville WUFT-FM 89.1 FM",
+      "role": "media/public-radio",
+      "contact": {
+        "email": "lowermira@ufl.edu",
+        "website": "https://www.wuft.org",
+        "twitter": "@WUFTNews"
+      }
+    },
+    {
+      "name": "Inverness WJUF 90.1 FM",
+      "role": "media/public-radio",
+      "ignore": "Operated by WUFT"
+    },
+    {
+      "name": "Jacksonville WJCT-FM 89.9 FM",
+      "role": "media/public-radio",
+      "contact": {
+        "email": "jpalombo@wjct.org",
+        "website": "https://www.wjct.org",
+        "twitter": "@WJCTJax"
+      }
+    },
+    {
+      "name": "Marathon/Key West WKWM 91.5 FM",
+      "role": "media/public-radio",
+      "inactive": "Operated by WLRN"
+    },
+    {
+      "name": "Marco WMKO 91.7 FM",
+      "role": "media/public-radio",
+      "inactive": "Operated by WGCU"
+    },
+    {
+      "name": "Melbourne WFIT 89.5 FM",
+      "role": "media/public-radio",
+      "contact": {
+        "email": "tkennedy@fit.edu",
+        "website": "https://www.wfit.org",
+        "twitter": "@WFIT895FM"
+      }
+    },
+    {
+      "name": "Miami WDNA 88.9 FM",
+      "role": "media/public-radio",
+      "contact": {
+        "email": "nfo@wdna.org",
+        "website": "https://www.wdna.org",
+        "twitter": "@wdnaradio"
+      }
+    },
+    {
+      "name": "Miami WLRN-FM  1.3 FM",
+      "role": "media/public-radio",
+      "contact": {
+        "email": "news@wlrnnews.org",
+        "website": "https://www.wlrn.org",
+        "twitter": "@WLRN"
+      }
+    },
+    {
+      "name": "Orlando WMFE-FM 90.7 FM",
+      "role": "media/public-radio",
+      "contact": {
+        "email": "wmfenews@wmfe.org",
+        "website": "https://www.wmfe.org",
+        "twitter": "@wmfeorlando"
+      }
+    },
+    {
+      "name": "Orlando WUCF-FM 89.9 FM",
+      "role": "media/public-radio",
+      "contact": {
+        "email": "kayonne.riley@wucf.org",
+        "website": "https://www.wucf.org",
+        "twitter": "@WUCFTV"
+      }
+    },
+    {
+      "name": "Panama City WFSW 89.1 FM",
+      "role": "media/public-radio",
+      "inactive": "Possibly operated by WFSU"
+    },
+    {
+      "name": "Panama City WKGC 1480 AM",
+      "role": "media/public-radio",
+      "contact": {
+        "website": "https://www.wkgc.org",
+        "twitter": "@WKGCNews"
+      }
+    },
+    {
+      "name": "Panama City WKGC-FM 90.7 FM",
+      "contact": {
+        "website": "https://www.wkgc.org",
+        "twitter": "@WKGCNews"
+      }
+    },
+    {
+      "name": "Pensacola WUWF 88.1 FM",
+      "role": "media/public-radio",
+      "contact": {
+        "email": "news@wuwf.org",
+        "website": "https://www.wuwf.org",
+        "twitter": "@WUWF"
+      }
+    },
+    {
+      "name": "Sarasota WSMR 89.1 FM",
+      "role": "media/public-radio",
+      "inactive": "Operated by WUSF"
+    },
+    {
+      "name": "Tallahassee WFSQ 91.5 FM",
+      "role": "media/public-radio",
+      "inactive": "Operated by WFSU"
+    },
+    {
+      "name": "Tallahassee WFSU-FM 88.9 FM",
+      "role": "media/public-radio",
+      "contact": {
+        "email": "lhatter@fsu.edu",
+        "website": "https://www.wfsu.org",
+        "twitter": "@WFSUmedia"
+      }
+    },
+    {
+      "name": "Tampa WMNF 88.5 FM",
+      "role": "media/public-radio",
+      "contact": {
+        "email": "newsroom@wmnf.org",
+        "website": "https://www.wmnf.org",
+        "twitter": "@wmnf"
+      }
+    },
+    {
+      "name": "Tampa WUSF 89.7 FM",
+      "role": "media/public-radio",
+      "contact": {
+        "email": "news@wusf.org",
+        "website": "https://www.wusf.usf.edu",
+        "twitter": "@wusf"
+      }
+    }
+  ]
+}
